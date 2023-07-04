@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2A/5D1QS0SE5B3W2RIHHXIOG8.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/character.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/character_PhysicsAsset.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/character_Skeleton.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/Paladin_diffuse.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/Paladin_MAT.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/Paladin_normal.uasset",
+				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/Novas/Content/Characters/Main/Paladin_specular.uasset",
 				"C:/Users/rpuig/OneDrive/Bureau/UnrealProject/NovasArenas/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
